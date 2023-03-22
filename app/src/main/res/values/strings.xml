@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorMonetario</string>
+    <string name="divisa1">Elegir divisa a convertir</string>
+    <string name="divisa2">Elegir resultado divisa</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado">Resultado</string>
+</resources>
