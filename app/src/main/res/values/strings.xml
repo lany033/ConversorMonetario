@@ -3,5 +3,14 @@
     <string name="divisa1">Elegir divisa a convertir</string>
     <string name="divisa2">Elegir resultado divisa</string>
     <string name="convertir">Convertir</string>
+    <string name="valor">Ingrese valor</string>
     <string name="resultado">Resultado</string>
+    <string-array name="divisas">
+        <item>Sol</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Won Koreano</item>
+        <item>Pesos MXN</item>
+        <item>Yen</item>
+    </string-array>
 </resources>
