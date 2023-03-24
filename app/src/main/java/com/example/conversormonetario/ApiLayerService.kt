@@ -4,6 +4,7 @@ import com.example.conversormonetario.model.CurrencyResultData
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
+import java.math.BigDecimal
 
 //ENDPOINT
 interface ApiLayerService {
@@ -12,6 +13,6 @@ interface ApiLayerService {
         @Query("apikey") apikey: String,
         @Query("to") to: String,
         @Query("from") from: String,
-        @Query("amount") amount: Int
+        @Query("amount") amount: BigDecimal
     ) : Call<CurrencyResultData>
 }

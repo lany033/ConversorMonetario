@@ -54,7 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="none"
-            android:hint="@string/divisa1"
+            android:hint="@string/divisa2"
             />
 
     </com.google.android.material.textfield.TextInputLayout>

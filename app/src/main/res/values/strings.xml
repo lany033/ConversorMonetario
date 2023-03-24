@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">ConversorMonetario</string>
-    <string name="divisa1">Elegir divisa a convertir</string>
-    <string name="divisa2">Elegir resultado divisa</string>
+    <string name="divisa1">Convertir De:</string>
+    <string name="divisa2">Convertir A:</string>
     <string name="convertir">Convertir</string>
-    <string name="valor">Ingrese valor</string>
+    <string name="valor">Ingrese valor a convertir</string>
     <string name="resultado">Resultado</string>
     <string-array name="divisas">
         <item>Sol</item>
