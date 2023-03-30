@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/monetarioFragment"
+        android:icon="@drawable/ic_money"
+        android:title="@string/convertidor_monetario"/>
+    <item
+        android:id="@+id/metricoFragment"
+        android:icon="@drawable/ic_metric"
+        android:title="@string/convertidor_metrico"/>
+    <item
+        android:id="@+id/temperaturaFragment"
+        android:icon="@drawable/ic_temperature"
+        android:title="@string/convertidor_temperatura"/>
+
+</menu>

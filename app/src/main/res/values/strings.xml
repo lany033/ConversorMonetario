@@ -1,10 +1,14 @@
 <resources>
-    <string name="app_name">ConversorMonetario</string>
+    <string name="app_name">Conversor</string>
     <string name="divisa1">Convertir De:</string>
     <string name="divisa2">Convertir A:</string>
     <string name="convertir">Convertir</string>
     <string name="valor">Ingrese valor a convertir</string>
     <string name="resultado">Resultado</string>
+    <string name="convertidor_monetario">Convertidor Monetario</string>
+    <string name="convertidor_temperatura">Convertidor de Temperatura</string>
+    <string name="convertidor_metrico">Convertidor de medidas</string>
+    <string name="en_desarrollo">Proximamente - En desarrollo</string>
     <string-array name="divisas">
         <item>Sol</item>
         <item>Dolar</item>
@@ -13,4 +17,6 @@
         <item>Pesos MXN</item>
         <item>Yen</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
