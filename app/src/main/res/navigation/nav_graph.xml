@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/monetarioFragment">
+    <fragment
+        android:id="@+id/monetarioFragment"
+        android:name="com.example.conversor.ui.conversormonetario.MonetarioFragment"
+        android:label="fragment_monetario"
+        tools:layout="@layout/fragment_monetario" />
+    <fragment
+        android:id="@+id/metricoFragment"
+        android:name="com.example.conversor.ui.conversormetrico.MetricoFragment"
+        android:label="fragment_metrico"
+        tools:layout="@layout/fragment_metrico" />
+    <fragment
+        android:id="@+id/temperaturaFragment"
+        android:name="com.example.conversor.ui.conversortemperatura.TemperaturaFragment"
+        android:label="fragment_temperatura"
+        tools:layout="@layout/fragment_temperatura" />
+</navigation>

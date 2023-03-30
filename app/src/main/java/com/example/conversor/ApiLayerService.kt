@@ -1,6 +1,6 @@
-package com.example.conversormonetario
+package com.example.conversor
 
-import com.example.conversormonetario.model.CurrencyResultData
+import com.example.conversor.model.CurrencyResultData
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

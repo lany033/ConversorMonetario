@@ -1,4 +1,4 @@
-package com.example.conversormonetario.model
+package com.example.conversor.model
 
 import com.squareup.moshi.Json
 
